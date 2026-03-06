@@ -29,3 +29,11 @@ This project provides a graphical interface that allows users to load an image a
 ---
 
 ## Project Structure
+├── main.py
+├── design.py
+├── design.ui
+└── README.md
+
+## Author
+
+**Zied Ellili**
